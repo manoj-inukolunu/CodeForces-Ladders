@@ -100,3 +100,5 @@
 | 98 | [Jamie and Binary Sequence (changed after round)](https://codeforces.com/problemset/problem/916/B) | 1700 |  |
 | 99 | [Circus](https://codeforces.com/problemset/problem/1138/B) | 1700 |  |
 | 100 | [Ralph And His Magic Field](https://codeforces.com/problemset/problem/894/B) | 1800 |  |
+| NA   |https://codeforces.com/contest/1457/problem/B | | |
+
