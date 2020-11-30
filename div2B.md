@@ -1,13 +1,13 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 1 | [Keyboard Layouts](https://codeforces.com/problemset/problem/831/B) | 800 |  |
-| 2 | [Decoding](https://codeforces.com/problemset/problem/746/B) | 900 |  |
+| 1 | [Keyboard Layouts](https://codeforces.com/problemset/problem/831/B) | 800 | YES |
+| 2 | [Decoding](https://codeforces.com/problemset/problem/746/B) | 900 | YES |
 | 3 | [Watering System](https://codeforces.com/problemset/problem/967/B) | 1000 |  |
 | 4 | [Mislove Has Lost an Array](https://codeforces.com/problemset/problem/1204/B) | 1000 |  |
-| 5 | [3-palindrome](https://codeforces.com/problemset/problem/805/B) | 1000 |  |
-| 6 | [Ania and Minimizing](https://codeforces.com/problemset/problem/1230/B) | 1000 |  |
+| 5 | [3-palindrome](https://codeforces.com/problemset/problem/805/B) | 1000 | YES |
+| 6 | [Ania and Minimizing](https://codeforces.com/problemset/problem/1230/B) | 1000 | YES |
 | 7 | [Timofey and cubes](https://codeforces.com/problemset/problem/764/B) | 1000 |  |
-| 8 | [Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | 1000 |  |
+| 8 | [Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | 1000 |YES  |
 | 9 | [Buying a TV Set](https://codeforces.com/problemset/problem/1041/B) | 1100 |  |
 | 10 | [Badges](https://codeforces.com/problemset/problem/1214/B) | 1100 |  |
 | 11 | [Nauuo and Chess](https://codeforces.com/problemset/problem/1173/B) | 1100 |  |
